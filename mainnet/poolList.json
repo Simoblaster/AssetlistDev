@@ -1,0 +1,36 @@
+{
+	"pools": [
+		{
+			"tokenA": "ntrn",
+			"tokenB": "tATOM",
+			"swapAddress": "neutron1wfsp9h9t0avrjpjly8h9v8hyng67m8n3qatu7xkvqgmqwazu9tkssv2hgr",
+			"bondingPeriods": [
+				{ "address": "neutron1027mqmzjeszuf6gn6ktnwpqvcy42wh63jr3zp5ykx4h35jwxv94qn2tflr" }
+			],
+			"isVerified": true
+		},
+		{
+			"tokenA": "ntrn",
+			"tokenB": "tBTC",
+			"swapAddress": "neutron162mrau70ekq97jzccn6rve60xlr544wxltm7my4we7gtwznusc8surff39",
+			"bondingPeriods": [
+				{ "address": "neutron1g9hhnt6zup2wr3qkhnrhz89g06jwkctjvmvryr5k6a3fxngzpl8sf6yjxc" }
+			],
+			"isVerified": true
+		},
+		{
+			"tokenA": "ntrn",
+			"tokenB": "ELE",
+			"swapAddress": "neutron1mlrmlpm5nk74ve0r4qlesn76jpu4y4z2j8u8pl4uh7jmgk8tylqq5yaxyp",
+			"bondingPeriods": [],
+			"isVerified": true
+		},
+		{
+			"tokenA": "ntrn",
+			"tokenB": "tUSDC",
+			"swapAddress": "neutron1qgf66s3h2hcrsv6r9h3852nkrv2578dm82hh49qad6phlngptxjscr8n02",
+			"bondingPeriods": [],
+			"isVerified": true
+		}
+	]
+}
