@@ -1,0 +1,25 @@
+{
+	"denom": "factory/neutron189adguawugk3e55zn63z8r9ll29xrjwca636ra7v7gxuzn98sxyqwzt47l/7omXa4gryZ5NiBmLep7JsTtTtANCVKXwT9vbN91aS1br",
+	"fullName": "Wrapped Bitcoin (Wormhole from Ethereum)",
+	"symbol": "whWBTCETH",
+	"chain": {
+		"chainName": "wormchain",
+		"chainId": "wormchain",
+		"gasPrice": {
+			"denom": "usei",
+			"amount": "25000"
+		},
+		"ibcChannels": {
+			"deposit_channel": "channel-4",
+			"withdraw_channel": "channel-0",
+			"port_id": "wasm.neutrongjrrme22cyha4ht2xapn3f08zzw6z3d4uxx6fyy9zd5dyr3yxgzqqncdqn"
+		},
+		"isEVM": false
+	},
+	"isNativeCoin": true,
+	"isIBCCoin": true,
+	"decimal": 8,
+	"chainURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/chains/ETH.png",
+	"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/mainnet/WBTC.png",
+	"bridgeURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/bridges/wormhole.png"
+}

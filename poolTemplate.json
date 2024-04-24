@@ -1,0 +1,9 @@
+{
+	"tokenA": "ELE",
+	"tokenB": "ntrn",
+	"swapAddress": "neutron1q9z68ysc8yf0k2tlwdkje3kyrud5esqattmkdjhy6w3fyceg9j2sy5fm2g",
+	"bondingPeriods": [
+		{ "address": "neutronnexwea7nqjle4lsp6d0m4ql59cfyyjgnlm2ge0t9ekpmlz53cgkqv2s6y7" }
+	],
+	"isVerified": true
+}
