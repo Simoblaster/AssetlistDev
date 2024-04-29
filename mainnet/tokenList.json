@@ -6,17 +6,17 @@
 			"symbol": "NTRN",
 			"tokenPrettyName": "Neutron",
 			"chain": {
-				"chainName": "neutrontestnet",
-				"chainPrettyName": "Neutron Testnet",
+				"chainName": "neutron",
+				"chainPrettyName": "Neutron Mainnet",
 				"localDenom": "untrn",
-				"chainId": "pion-1",
+				"chainId": "neutron-1",
 				"gasPrice": {
 					"denom": "untrn",
 					"amount": "200000"
 				},
-				"rpc": ["https://rpc-falcron.pion-1.ntrn.tech"],
-				"grpc": ["grpc-falcron.pion-1.ntrn.tech:80"],
-				"rest": ["https://rest-falcron.pion-1.ntrn.tech"],
+				"rpc": ["https://neutron-rpc.publicnode.com:443"],
+				"grpc": ["neutron-grpc.publicnode.com:443"],
+				"rest": ["https://neutron-rest.publicnode.com"],
 				"isEVM": false
 			},
 			"isNativeCoin": true,
@@ -24,94 +24,6 @@
 			"decimal": 6,
 			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/mainnet/ntrn.png"
 			
-		},
-		{
-			"denom": "factory/neutron13r3st22qa04c8q0d6elg4eyc55vcyrdhgcjm9f/ELE",
-			"fullName": "Electron",
-			"symbol": "ELE",
-			"tokenPrettyName": "Unknown",
-			"chain": {
-				"chainName": "neutrontestnet",
-				"chainPrettyName": "Neutron Testnet",
-				"chainId": "pion-1",
-				"localDenom": "factory/neutron13r3st22qa04c8q0d6elg4eyc55vcyrdhgcjm9f/ELE",
-				"gasPrice": {
-					"denom": "untrn",
-					"amount": "200000"
-				},
-				"isEVM": false
-			},
-			"isNativeCoin": true,
-			"isIBCCoin": false,
-			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/mainnet/ele.png",
-			"logoHash": "LOKC*Nyl}4v,o#kBkCaz|-Z,$xIr"
-		},
-		{
-			"denom": "factory/neutron13r3st22qa04c8q0d6elg4eyc55vcyrdhgcjm9f/tUSDC",
-			"fullName": "tUSDC",
-			"symbol": "tUSDC",
-			"tokenPrettyName": "US Dollar",
-			"chain": {
-				"chainName": "neutrontestnet",
-				"chainPrettyName": "Neutron Testnet",
-				"chainId": "pion-1",
-				"localDenom": "factory/neutron13r3st22qa04c8q0d6elg4eyc55vcyrdhgcjm9f/tUSDC",
-				"gasPrice": {
-					"denom": "untrn",
-					"amount": "200000"
-				},
-				"isEVM": false
-			},
-			"isNativeCoin": true,
-			"isIBCCoin": false,
-			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/mainnet/tUSDC.png",
-			"logoHash": "LYJ17EbFZ,oMt7j]j[WU#Hju][ay"
-		},
-		{
-			"denom": "factory/neutron13r3st22qa04c8q0d6elg4eyc55vcyrdhgcjm9f/tATOM",
-			"fullName": "tATOM",
-			"symbol": "tATOM",
-			"tokenPrettyName": "Atom",
-			"chain": {
-				"chainName": "neutrontestnet",
-				"chainPrettyName": "Neutron Testnet",
-				"chainId": "pion-1",
-				"localDenom": "factory/neutron13r3st22qa04c8q0d6elg4eyc55vcyrdhgcjm9f/tATOM",
-				"gasPrice": {
-					"denom": "untrn",
-					"amount": "200000"
-				},
-				"isEVM": false
-			},
-			"isNativeCoin": true,
-			"isIBCCoin": false,
-			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/mainnet/tATOM.png",
-			"logoHash": "LKQSbYR8KB$[yDTMsknftmb_RjR:"
-		},
-		{
-			"denom": "factory/neutron13r3st22qa04c8q0d6elg4eyc55vcyrdhgcjm9f/tBTC",
-			"fullName": "tBTC",
-			"symbol": "tBTC",
-			"tokenPrettyName": "Bitcoin",
-			"chain": {
-				"chainName": "neutrontestnet",
-				"chainPrettyName": "Neutron Testnet",
-				"chainId": "pion-1",
-				"localDenom": "factory/neutron13r3st22qa04c8q0d6elg4eyc55vcyrdhgcjm9f/tBTC",
-				"gasPrice": {
-					"denom": "untrn",
-					"amount": "200000"
-				},
-				"isEVM": false
-			},
-			"isNativeCoin": true,
-			"isIBCCoin": false,
-			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/mainnet/tBTC.png",
-			"logoHash": "L3C+kq9e8w?C0.Tf-4{[00Vr00pI"
 		}
 	]
 }
