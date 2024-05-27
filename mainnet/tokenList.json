@@ -24,6 +24,28 @@
 			"decimal": 6,
 			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/mainnet/ntrn.png"
 			
+		},
+		{
+			"denom": "factory/neutron13r3st22qa04c8q0d6elg4eyc55vcyrdhgcjm9f/tBTC",
+			"fullName": "tBTC",
+			"symbol": "tBTC",
+			"tokenPrettyName": "Bitcoin",
+			"chain": {
+				"chainName": "neutron",
+				"chainPrettyName": "Neutron Mainnet",
+				"chainId": "neutron-1",
+				"localDenom": "factory/neutron13r3st22qa04c8q0d6elg4eyc55vcyrdhgcjm9f/tBTC",
+				"gasPrice": {
+					"denom": "untrn",
+					"amount": "200000"
+				},
+				"isEVM": false
+			},
+			"isNativeCoin": true,
+			"isIBCCoin": false,
+			"decimal": 6,
+			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/mainnet/tBTC.png",
+			"logoHash": "L3C+kq9e8w?C0.Tf-4{[00Vr00pI"
 		}
 	]
 }

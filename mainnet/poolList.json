@@ -1,3 +1,11 @@
 {
-	"pools": []
+	"pools": [
+		{
+			"tokenA": "ntrn",
+			"tokenB": "tBTC",
+			"swapAddress": "neutron1haxlmlw63mwfsy90gzd2glfex5hux7zew45aymzkksd0ucya4dkqmmntyc",
+			"bondingPeriods": [],
+			"isVerified": true
+		}
+	]
 }
