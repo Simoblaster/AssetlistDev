@@ -46,6 +46,28 @@
 			"decimal": 6,
 			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/mainnet/tBTC.png",
 			"logoHash": "L3C+kq9e8w?C0.Tf-4{[00Vr00pI"
+		},
+		{
+			"denom": "ibc/B559A80D62249C8AA07A380E2A2BEA6E5CA9A6F079C912C3A9E9B494105E4F81",
+			"fullName": "USDC",
+			"symbol": "USDC",
+			"tokenPrettyName": "USDC",
+			"chain": {
+				"chainName": "neutron",
+				"chainPrettyName": "Neutron Mainnet",
+				"chainId": "neutron-1",
+				"localDenom": "ibc/B559A80D62249C8AA07A380E2A2BEA6E5CA9A6F079C912C3A9E9B494105E4F81",
+				"gasPrice": {
+					"denom": "untrn",
+					"amount": "200000"
+				},
+				"isEVM": false
+			},
+			"isNativeCoin": true,
+			"isIBCCoin": false,
+			"decimal": 6,
+			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/mainnet/USDC.png",
+			"logoHash": "L3C+kq9e8w?C0.Tf-4{[00Vr00pI"
 		}
 	]
 }
