@@ -8,6 +8,13 @@
 			{ "address": "neutron1kxeyrkl879q3j5ktktxv93twjg3p2auy0325zm4shul0njtmrh9qz3axlh" }
 			],
 			"isVerified": true
+		},
+		{
+			"tokenA": "ntrn",
+			"tokenB": "USDC",
+			"swapAddress": "neutron1s9zqu3v9uf6mhyzhru4j8d90hhf70y4vsq9zmt68sn7u8qlnh5eqtglr2p",
+			"bondingPeriods": [],
+			"isVerified": true
 		}
 	]
 }
