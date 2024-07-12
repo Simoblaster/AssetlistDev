@@ -1,8 +1,8 @@
 {
 	"pools": [
 		{
-			"tokenA": "ATOM",
-			"tokenB": "USDC",
+			"tokenA": "USDC",
+			"tokenB": "ATOM",
 			"swapAddress": "neutron173emdnvk527dwyj03vqqpje794pfx8qgj8xmat4mjnyjxzemjyzqznslux",
 			"bondingPeriods": [],
 			"isVerified": true
