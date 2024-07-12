@@ -68,6 +68,28 @@
 			"decimal": 6,
 			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/mainnet/USDC.png",
 			"logoHash": "L3C+kq9e8w?C0.Tf-4{[00Vr00pI"
+		},
+		{
+			"denom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+			"fullName": "ATOM",
+			"symbol": "ATOM",
+			"tokenPrettyName": "ATOM",
+			"chain": {
+				"chainName": "neutron",
+				"chainPrettyName": "Neutron Mainnet",
+				"chainId": "neutron-1",
+				"localDenom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+				"gasPrice": {
+					"denom": "untrn",
+					"amount": "200000"
+				},
+				"isEVM": false
+			},
+			"isNativeCoin": true,
+			"isIBCCoin": false,
+			"decimal": 6,
+			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/mainnet/ATOM.png",
+			"logoHash": "L3C+kq9e8w?C0.Tf-4{[00Vr00pI"
 		}
 	]
 }
