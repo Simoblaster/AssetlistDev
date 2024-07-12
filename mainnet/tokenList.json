@@ -63,7 +63,7 @@
 				},
 				"isEVM": false
 			},
-			"isNativeCoin": false,
+			"isNativeCoin": true,
 			"isIBCCoin": true,
 			"decimal": 6,
 			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/mainnet/USDC.png",
@@ -85,7 +85,7 @@
 				},
 				"isEVM": false
 			},
-			"isNativeCoin": false,
+			"isNativeCoin": true,
 			"isIBCCoin": true,
 			"decimal": 6,
 			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/mainnet/ATOM.png",
