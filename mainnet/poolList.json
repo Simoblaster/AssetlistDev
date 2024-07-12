@@ -1,22 +1,6 @@
 {
 	"pools": [
 		{
-			"tokenA": "ntrn",
-			"tokenB": "tBTC",
-			"swapAddress": "neutron1haxlmlw63mwfsy90gzd2glfex5hux7zew45aymzkksd0ucya4dkqmmntyc",
-			"bondingPeriods": [
-			{ "address": "neutron1kxeyrkl879q3j5ktktxv93twjg3p2auy0325zm4shul0njtmrh9qz3axlh" }
-			],
-			"isVerified": true
-		},
-		{
-			"tokenA": "ntrn",
-			"tokenB": "USDC",
-			"swapAddress": "neutron1s9zqu3v9uf6mhyzhru4j8d90hhf70y4vsq9zmt68sn7u8qlnh5eqtglr2p",
-			"bondingPeriods": [],
-			"isVerified": true
-		},
-		{
 			"tokenA": "ATOM",
 			"tokenB": "USDC",
 			"swapAddress": "neutron1a4m2v7eaqjrfdfrkf0029ajdwc04dztxu3jvhm5v8avzjrp2ytjqe4rlde",
