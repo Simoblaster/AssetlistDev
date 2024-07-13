@@ -49,9 +49,9 @@
 		},
 		{
 			"denom": "ibc/B559A80D62249C8AA07A380E2A2BEA6E5CA9A6F079C912C3A9E9B494105E4F81",
-			"fullName": "Noble",
+			"fullName": "USDC",
 			"symbol": "USDC",
-			"tokenPrettyName": "Noble",
+			"tokenPrettyName": "USDC",
 			"chain": {
 				"chainName": "noble",
 				"chainId": "noble-1",
