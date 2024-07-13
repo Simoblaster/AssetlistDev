@@ -7,7 +7,7 @@
 			"tokenPrettyName": "Neutron",
 			"chain": {
 				"chainName": "neutron",
-				"chainPrettyName": "Neutron Mainnet",
+				"chainPrettyName": "Neutron",
 				"localDenom": "untrn",
 				"chainId": "neutron-1",
 				"gasPrice": {
@@ -32,7 +32,7 @@
 			"tokenPrettyName": "Bitcoin",
 			"chain": {
 				"chainName": "neutron",
-				"chainPrettyName": "Neutron Mainnet",
+				"chainPrettyName": "Neutron",
 				"chainId": "neutron-1",
 				"localDenom": "factory/neutron13r3st22qa04c8q0d6elg4eyc55vcyrdhgcjm9f/tBTC",
 				"gasPrice": {
