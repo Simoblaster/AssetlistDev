@@ -55,7 +55,7 @@
 			"chain": {
 				"chainName": "noble",
 				"chainId": "noble-1",
-				"chainPrettyName": "Noble",
+				"chainPrettyName": "Neutron",
 				"localDenom": "uusdc",
 				"gasPrice": {
 					"denom": "uusdc",
