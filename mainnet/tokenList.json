@@ -83,21 +83,29 @@
 			"symbol": "ATOM",
 			"tokenPrettyName": "ATOM",
 			"chain": {
-				"chainName": "neutron",
-				"chainPrettyName": "Neutron Mainnet",
-				"chainId": "neutron-1",
-				"localDenom": "ibc/C4CFF46FD6DE35CA4CF4CE031E643C8FDC9BA4B99AE598E9B0ED98FE3A2319F9",
+				"chainName": "cosmoshub",
+				"chainId": "cosmoshub-4",
+				"chainPrettyName": "Neutron",
+				"localDenom": "uatom",
 				"gasPrice": {
-					"denom": "untrn",
-					"amount": "200000"
+					"denom": "uatom",
+					"amount": "0.025"
 				},
+				"ibcChannels": {
+					"deposit_channel": "channel-1",
+					"withdraw_channel": "channel-569",
+					"port_id": "transfer"
+				},
+				"rpc": ["https://cosmos-rpc.quickapi.com:443"],
+				"grpc": ["cosmoshub-grpc.lavenderfive.com:443"],
+				"rest": ["https://cosmos-lcd.quickapi.com:443"],
 				"isEVM": false
 			},
 			"isNativeCoin": true,
 			"isIBCCoin": true,
 			"decimal": 6,
 			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/mainnet/ATOM.png",
-			"logoHash": "L3C+kq9e8w?C0.Tf-4{[00Vr00pI"
+			"logohash": "LKFq@?5O0c,..lr=MfOU4,t9k3Wm"
 		}
 	]
 }
