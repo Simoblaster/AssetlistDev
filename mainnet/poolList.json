@@ -22,6 +22,13 @@
 			"swapAddress": "neutron1s9zqu3v9uf6mhyzhru4j8d90hhf70y4vsq9zmt68sn7u8qlnh5eqtglr2p",
 			"bondingPeriods": [],
 			"isVerified": true
+		},
+		{
+			"tokenA": "USDC",
+			"tokenB": "ATOM",
+			"swapAddress": "neutron173emdnvk527dwyj03vqqpje794pfx8qgj8xmat4mjnyjxzemjyzqznslux",
+			"bondingPeriods": [],
+			"isVerified": true
 		}
 	]
 }
