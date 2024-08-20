@@ -58,12 +58,12 @@
 				"chainPrettyName": "Neutron",
 				"localDenom": "uusdc",
 				"gasPrice": {
-					"denom": "uusdc",
-					"amount": "0.1"
+					"denom": "untrn",
+					"amount": "200000"
 				},
 				"ibcChannels": {
-					"deposit_channel": "channel-18",
-					"withdraw_channel": "channel-30",
+					"deposit_channel": "channel-30",
+					"withdraw_channel": "channel-18",
 					"port_id": "transfer"
 				},
 				"rpc": ["https://noble-rpc.polkachu.com"],
