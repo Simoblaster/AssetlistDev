@@ -29,6 +29,13 @@
 			"swapAddress": "neutron173emdnvk527dwyj03vqqpje794pfx8qgj8xmat4mjnyjxzemjyzqznslux",
 			"bondingPeriods": [],
 			"isVerified": true
+		},
+		{
+			"tokenA": "tETH",
+			"tokenB": "tBTC",
+			"swapAddress": "neutron16we2dqsmh7lemrm3qx2k2y6ashy8xfvzplz7du7ur28urdutx2cs5rpp2k",
+			"bondingPeriods": [],
+			"isVerified": true
 		}
 	]
 }
