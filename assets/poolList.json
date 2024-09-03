@@ -1,36 +1,6 @@
 {
 	"pools": [
 		{
-			"tokenA": "ntrn",
-			"tokenB": "USDC",
-			"swapAddress": "neutron1s9zqu3v9uf6mhyzhru4j8d90hhf70y4vsq9zmt68sn7u8qlnh5eqtglr2p",
-			"bondingPeriods": [],
-			"isVerified": true
-		},
-		{
-			"tokenA": "ntrn",
-			"tokenB": "ATOM",
-			"swapAddress": "neutron1m6x9rc5klr65xa7wscmclls4dmd2t6scpnpsauh79g284qlfgtmsrsfnn4",
-			"bondingPeriods": [],
-			"isVerified": true
-		},
-		{
-			"tokenA": "ntrn",
-			"tokenB": "tBTC",
-			"swapAddress": "neutron1haxlmlw63mwfsy90gzd2glfex5hux7zew45aymzkksd0ucya4dkqmmntyc",
-			"bondingPeriods": [
-			{ "address": "neutron1kxeyrkl879q3j5ktktxv93twjg3p2auy0325zm4shul0njtmrh9qz3axlh" }
-			],
-			"isVerified": true
-		},
-		{
-			"tokenA": "USDC",
-			"tokenB": "ATOM",
-			"swapAddress": "neutron173emdnvk527dwyj03vqqpje794pfx8qgj8xmat4mjnyjxzemjyzqznslux",
-			"bondingPeriods": [],
-			"isVerified": true
-		},
-		{
 			"tokenA": "tETH",
 			"tokenB": "tBTC",
 			"swapAddress": "neutron16we2dqsmh7lemrm3qx2k2y6ashy8xfvzplz7du7ur28urdutx2cs5rpp2k",
