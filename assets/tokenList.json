@@ -22,7 +22,7 @@
 			"isNativeCoin": true,
 			"isIBCCoin": false,
 			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/mainnet/ntrn.png"
+			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/logos/ntrn.png"
 			
 		},
 		{
@@ -44,7 +44,7 @@
 			"isNativeCoin": true,
 			"isIBCCoin": false,
 			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/mainnet/tBTC.png",
+			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/logos/tBTC.png",
 			"logoHash": "L3C+kq9e8w?C0.Tf-4{[00Vr00pI"
 		},
 		{
@@ -66,7 +66,7 @@
 			"isNativeCoin": true,
 			"isIBCCoin": false,
 			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/mainnet/tETH.png",
+			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/logos/tETH.png",
 			"logoHash": "L3C+kq9e8w?C0.Tf-4{[00Vr00pI"
 		},
 		{
@@ -96,7 +96,7 @@
 			"isNativeCoin": true,
 			"isIBCCoin": true,
 			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/mainnet/USDC.png",
+			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/logos/USDC.png",
 			"logohash": "LKFq@?5O0c,..lr=MfOU4,t9k3Wm"
 		},
 		{
@@ -126,7 +126,7 @@
 			"isNativeCoin": true,
 			"isIBCCoin": true,
 			"decimal": 6,
-			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/mainnet/ATOM.png",
+			"logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/logos/ATOM.png",
 			"logohash": "LKFq@?5O0c,..lr=MfOU4,t9k3Wm"
 		}
 	]
