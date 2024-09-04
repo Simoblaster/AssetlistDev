@@ -1,6 +1,13 @@
 {
 	"pools": [
 		{
+			"tokenA": "ntrn",
+			"tokenB": "USDC",
+			"swapAddress": "neutron1w94d0pw5n0n86t5t47glmy2tvmw256u5zdrhwrwhnlyhjrc0744sgu9gzu",
+			"bondingPeriods": [],
+			"isVerified": true
+		},
+		{
 			"tokenA": "tETH",
 			"tokenB": "tBTC",
 			"swapAddress": "neutron16we2dqsmh7lemrm3qx2k2y6ashy8xfvzplz7du7ur28urdutx2cs5rpp2k",
