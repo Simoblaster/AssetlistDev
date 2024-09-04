@@ -8,6 +8,13 @@
 			"isVerified": true
 		},
 		{
+			"tokenA": "ntrn",
+			"tokenB": "ATOM",
+			"swapAddress": "neutron1t3jqqftcytmyfny3a8ny6m977z06rkc7dvanr0hjgqpdaahquqeqgvtvzz",
+			"bondingPeriods": [],
+			"isVerified": true
+		},
+		{
 			"tokenA": "tETH",
 			"tokenB": "tBTC",
 			"swapAddress": "neutron16we2dqsmh7lemrm3qx2k2y6ashy8xfvzplz7du7ur28urdutx2cs5rpp2k",
