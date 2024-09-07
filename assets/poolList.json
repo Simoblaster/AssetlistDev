@@ -5,6 +5,7 @@
 			"tokenB": "USDC",
 			"swapAddress": "neutron1w94d0pw5n0n86t5t47glmy2tvmw256u5zdrhwrwhnlyhjrc0744sgu9gzu",
 			"bondingPeriods": [],
+			"collectionShare": "Happy Face",
 			"isVerified": true
 		},
 		{
@@ -12,6 +13,7 @@
 			"tokenB": "ATOM",
 			"swapAddress": "neutron1t3jqqftcytmyfny3a8ny6m977z06rkc7dvanr0hjgqpdaahquqeqgvtvzz",
 			"bondingPeriods": [],
+			"collectionShare": "Meta Flowers",
 			"isVerified": true
 		},
 		{
