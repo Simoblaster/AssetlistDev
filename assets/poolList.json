@@ -24,7 +24,9 @@
 			"tokenA": "ntrn",
 			"tokenB": "tBTC",
 			"swapAddress": "neutron1dj88xcnr4ezmxcr3sfwcvj75ml9ecgxu379pthyvatgqqjph0caqc3gqjv",
-			"bondingPeriods": [],
+			"bondingPeriods": [
+		        	{ "address": "neutron1cnquh3lw5tsl6q49wwexh2yp7rdhhyy4jxcfu8uuefh9usy07k2s4ajdxn" }
+			],
 			"isParticles": false,
 			"isExternal": true,
 			"isVerified": true
