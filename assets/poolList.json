@@ -6,6 +6,8 @@
 			"swapAddress": "neutron1w94d0pw5n0n86t5t47glmy2tvmw256u5zdrhwrwhnlyhjrc0744sgu9gzu",
 			"bondingPeriods": [],
 			"shareId": "Happy Face",
+			"isParticles": true,
+			"isExternal": true,
 			"isVerified": true
 		},
 		{
@@ -14,6 +16,8 @@
 			"swapAddress": "neutron1t3jqqftcytmyfny3a8ny6m977z06rkc7dvanr0hjgqpdaahquqeqgvtvzz",
 			"bondingPeriods": [],
 			"shareId": "Meta Flowers",
+			"isParticles": true,
+			"isExternal": false,
 			"isVerified": true
 		},
 		{
@@ -21,6 +25,8 @@
 			"tokenB": "tBTC",
 			"swapAddress": "neutron1dj88xcnr4ezmxcr3sfwcvj75ml9ecgxu379pthyvatgqqjph0caqc3gqjv",
 			"bondingPeriods": [],
+			"isParticles": false,
+			"isExternal": true,
 			"isVerified": true
 		},
 		{
@@ -28,6 +34,8 @@
 			"tokenB": "tETH",
 			"swapAddress": "neutron13j8mk5tn44qk2scdkjm674t6wfmll6cq2p6gzkh9x0edxhuq2ltqqgw83l",
 			"bondingPeriods": [],
+			"isParticles": true,
+			"isExternal": true,
 			"isVerified": true
 		},
 		{
@@ -35,6 +43,8 @@
 			"tokenB": "tBTC",
 			"swapAddress": "neutron16we2dqsmh7lemrm3qx2k2y6ashy8xfvzplz7du7ur28urdutx2cs5rpp2k",
 			"bondingPeriods": [],
+			"isParticles": false,
+			"isExternal": true,
 			"isVerified": true
 		}
 	]
