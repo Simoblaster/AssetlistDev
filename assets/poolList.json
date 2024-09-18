@@ -27,6 +27,7 @@
 			"bondingPeriods": [
 		        	{ "address": "neutron1cnquh3lw5tsl6q49wwexh2yp7rdhhyy4jxcfu8uuefh9usy07k2s4ajdxn" }
 			],
+			"ruaId": "3",
 			"isParticles": false,
 			"isExternal": true,
 			"isVerified": true
@@ -36,6 +37,7 @@
 			"tokenB": "tETH",
 			"swapAddress": "neutron13j8mk5tn44qk2scdkjm674t6wfmll6cq2p6gzkh9x0edxhuq2ltqqgw83l",
 			"bondingPeriods": [],
+			"ruaId": "4",
 			"isParticles": true,
 			"isExternal": true,
 			"isVerified": true
@@ -45,6 +47,7 @@
 			"tokenB": "tBTC",
 			"swapAddress": "neutron16we2dqsmh7lemrm3qx2k2y6ashy8xfvzplz7du7ur28urdutx2cs5rpp2k",
 			"bondingPeriods": [],
+			"ruaId": "5",
 			"isParticles": false,
 			"isExternal": true,
 			"isVerified": true
