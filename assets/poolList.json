@@ -5,7 +5,7 @@
 			"tokenB": "USDC",
 			"swapAddress": "neutron18n650fcfjcz0drdcs7gserea0gzxhqa86ymsdjgzs6vdyvjcl54qmz6ypg",
 			"bondingPeriods": [],
-			"ruaContract": "neutron1szqkr7z9emsqnw2gurhpusczczff8sl8eu3tv7mjjnap4sanmvcs3lshrd"
+			"ruaContract": "neutron1szqkr7z9emsqnw2gurhpusczczff8sl8eu3tv7mjjnap4sanmvcs3lshrd",
 			"ruaId": "0",
 			"isParticles": true,
 			"isExternal": true,
