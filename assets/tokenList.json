@@ -145,28 +145,6 @@
       "decimal": 6,
       "logoURI": "https://raw.githubusercontent.com/Electron-Protocol/Assetlist/main/assets/logos/ATOM.png",
       "logohash": "LKFq@?5O0c,..lr=MfOU4,t9k3Wm"
-    },
-    {
-      "chain": {
-        "chainId": "neutron-1",
-        "chainName": "neutron",
-        "chainPrettyName": "Neutron",
-        "gasPrice": {
-          "amount": "200000",
-          "denom": "untrn"
-        },
-        "isEVM": false,
-        "localDenom": "ibc/773B4D0A3CD667B2275D5A4A7A2F0909C0BA0F4059C0B9181E680DDF4965DCC7"
-      },
-      "decimal": 6,
-      "denom": "ibc/773B4D0A3CD667B2275D5A4A7A2F0909C0BA0F4059C0B9181E680DDF4965DCC7",
-      "fullName": "Celestia TIA",
-      "isIBCCoin": true,
-      "isNativeCoin": false,
-      "logohash": "",
-      "logoURI": "https://raw.githubusercontent.com/cosmos/chain-registry/master/celestia/images/celestia.svg",
-      "symbol": "TIA",
-      "tokenPrettyName": "Celestia TIA"
     }
   ]
 }
