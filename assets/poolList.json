@@ -1,55 +1,65 @@
 {
-	"pools": [
-		{
-			"tokenA": "ntrn",
-			"tokenB": "USDC",
-			"swapAddress": "neutron18n650fcfjcz0drdcs7gserea0gzxhqa86ymsdjgzs6vdyvjcl54qmz6ypg",
-			"bondingPeriods": [],
-			"ruaContract": "neutron1szqkr7z9emsqnw2gurhpusczczff8sl8eu3tv7mjjnap4sanmvcs3lshrd",
-			"ruaId": "0",
-			"isParticles": true,
-			"isExternal": true,
-			"isVerified": true
-		},
-		{
-			"tokenA": "ntrn",
-			"tokenB": "ATOM",
-			"swapAddress": "neutron1fwcfms98srssdgrlcke6sqnwqa0tlwsma280tkq44ajh5xzdvhtsuw89tt",
-			"bondingPeriods": [],
-			"ruaId": "1",
-			"isParticles": true,
-			"isExternal": false,
-			"isVerified": true
-		},
-		{
-			"tokenA": "ntrn",
-			"tokenB": "tBTC",
-			"swapAddress": "neutron133vldllh0h3nspvnz7n6qx7yf7zn7dltcmz6t9m5yfqkr0xx8ndqc556df",
-			"bondingPeriods": [],
-			"ruaId": "0",
-			"isParticles": false,
-			"isExternal": true,
-			"isVerified": true
-		},
-		{
-			"tokenA": "ntrn",
-			"tokenB": "tETH",
-			"swapAddress": "neutron10m8hreg9pyhkjlck94q2ummkt6fhs8fj0zt2t2z9y65fkaelznxstjzmx0",
-			"bondingPeriods": [],
-			"ruaId": "0",
-			"isParticles": true,
-			"isExternal": true,
-			"isVerified": true
-		},
-		{
-			"tokenA": "tETH",
-			"tokenB": "tBTC",
-			"swapAddress": "neutron149wklvdztcmvrvkk8d03wrzqxcszwxxrwn4wqrj27uwgsamtvfvqeyat9e",
-			"bondingPeriods": [],
-			"ruaId": "0",
-			"isParticles": false,
-			"isExternal": true,
-			"isVerified": true
-		}
-	]
+  "pools": [
+    {
+      "tokenA": "ntrn",
+      "tokenB": "USDC",
+      "swapAddress": "neutron18n650fcfjcz0drdcs7gserea0gzxhqa86ymsdjgzs6vdyvjcl54qmz6ypg",
+      "bondingPeriods": [],
+      "ruaContract": "neutron1szqkr7z9emsqnw2gurhpusczczff8sl8eu3tv7mjjnap4sanmvcs3lshrd",
+      "ruaId": "0",
+      "isParticles": true,
+      "isExternal": true,
+      "isVerified": true
+    },
+    {
+      "tokenA": "ntrn",
+      "tokenB": "ATOM",
+      "swapAddress": "neutron1fwcfms98srssdgrlcke6sqnwqa0tlwsma280tkq44ajh5xzdvhtsuw89tt",
+      "bondingPeriods": [],
+      "ruaId": "1",
+      "isParticles": true,
+      "isExternal": false,
+      "isVerified": true
+    },
+    {
+      "tokenA": "ntrn",
+      "tokenB": "tBTC",
+      "swapAddress": "neutron133vldllh0h3nspvnz7n6qx7yf7zn7dltcmz6t9m5yfqkr0xx8ndqc556df",
+      "bondingPeriods": [],
+      "ruaId": "0",
+      "isParticles": false,
+      "isExternal": true,
+      "isVerified": true
+    },
+    {
+      "tokenA": "ntrn",
+      "tokenB": "tETH",
+      "swapAddress": "neutron10m8hreg9pyhkjlck94q2ummkt6fhs8fj0zt2t2z9y65fkaelznxstjzmx0",
+      "bondingPeriods": [],
+      "ruaId": "0",
+      "isParticles": true,
+      "isExternal": true,
+      "isVerified": true
+    },
+    {
+      "tokenA": "tETH",
+      "tokenB": "tBTC",
+      "swapAddress": "neutron149wklvdztcmvrvkk8d03wrzqxcszwxxrwn4wqrj27uwgsamtvfvqeyat9e",
+      "bondingPeriods": [],
+      "ruaId": "0",
+      "isParticles": false,
+      "isExternal": true,
+      "isVerified": true
+    },
+    {
+      "tokenA": "NTRN",
+      "tokenB": "USDC",
+      "swapAddress": "neutron1s0w7mezl06ulxqrmsnlq4ulrh4pvjkh0kgk6kf9gf9pgdw8gjg8qmt4r06",
+      "bondingPeriods": [],
+      "ruaId": "",
+      "isParticles": false,
+      "isExternal": true,
+      "isVerified": true
+    }
+  ]
 }
