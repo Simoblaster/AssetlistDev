@@ -80,6 +80,16 @@
       "isParticles": false,
       "isExternal": true,
       "isVerified": true
+    },
+    {
+      "tokenA": "ATOM",
+      "tokenB": "USDC",
+      "swapAddress": "neutron1u2nsxpmw0le7z2cxuw60m7haqwa64px9f05xgy36vyswe4gxltaqf0vyyp",
+      "bondingPeriods": [],
+      "ruaId": "",
+      "isParticles": false,
+      "isExternal": true,
+      "isVerified": true
     }
   ]
 }
