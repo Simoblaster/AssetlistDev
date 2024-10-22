@@ -100,6 +100,16 @@
       "isParticles": false,
       "isExternal": true,
       "isVerified": true
+    },
+    {
+      "tokenA": "MARS",
+      "tokenB": "ASTRO",
+      "swapAddress": "neutron1pjn5ww8hm7jedp6zam3tmmnz29ryhlg2uqt7kq54nvndt2xz5caqthkkar",
+      "bondingPeriods": [],
+      "ruaId": "",
+      "isParticles": false,
+      "isExternal": true,
+      "isVerified": true
     }
   ]
 }
